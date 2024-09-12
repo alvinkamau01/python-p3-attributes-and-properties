@@ -23,7 +23,7 @@ an object-oriented programming language.
 - **Method**: a function that is defined inside of a class.
 - **Magic Method**: a special type of method in Python that starts and ends with
 double underscores. These methods are called on objects under certain conditions
-without needing to use their names explicitly. Also called **dunder methods**
+without needing to use their names explicitly. Also called **dunder methods** 
 (for **d**ouble **under**score).
 - **Attribute**: variables that belong to an object.
 - **Property**: attributes that are controlled by methods.
